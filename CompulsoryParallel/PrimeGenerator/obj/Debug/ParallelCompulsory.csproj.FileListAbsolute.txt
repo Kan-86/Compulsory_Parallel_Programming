@@ -1,0 +1,13 @@
+D:\Skoli\7Onn\ParallelAssignments\Compulsory\CompulsoryParallel\PrimeGenerator\PrimeGenerator\bin\Debug\PrimeGenerator.exe.config
+D:\Skoli\7Onn\ParallelAssignments\Compulsory\CompulsoryParallel\PrimeGenerator\PrimeGenerator\bin\Debug\PrimeGenerator.exe
+D:\Skoli\7Onn\ParallelAssignments\Compulsory\CompulsoryParallel\PrimeGenerator\PrimeGenerator\bin\Debug\PrimeGenerator.pdb
+D:\Skoli\7Onn\ParallelAssignments\Compulsory\CompulsoryParallel\PrimeGenerator\PrimeGenerator\bin\Debug\WpfAnimatedGif.dll
+D:\Skoli\7Onn\ParallelAssignments\Compulsory\CompulsoryParallel\PrimeGenerator\PrimeGenerator\bin\Debug\WpfAnimatedGif.xml
+D:\Skoli\7Onn\ParallelAssignments\Compulsory\CompulsoryParallel\PrimeGenerator\PrimeGenerator\obj\Debug\ParallelCompulsory.csprojAssemblyReference.cache
+D:\Skoli\7Onn\ParallelAssignments\Compulsory\CompulsoryParallel\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.PrimeNumbersGenerator.resources
+D:\Skoli\7Onn\ParallelAssignments\Compulsory\CompulsoryParallel\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.Properties.Resources.resources
+D:\Skoli\7Onn\ParallelAssignments\Compulsory\CompulsoryParallel\PrimeGenerator\PrimeGenerator\obj\Debug\ParallelCompulsory.csproj.GenerateResource.cache
+D:\Skoli\7Onn\ParallelAssignments\Compulsory\CompulsoryParallel\PrimeGenerator\PrimeGenerator\obj\Debug\ParallelCompulsory.csproj.CoreCompileInputs.cache
+D:\Skoli\7Onn\ParallelAssignments\Compulsory\CompulsoryParallel\PrimeGenerator\PrimeGenerator\obj\Debug\ParallelCompulsory.csproj.CopyComplete
+D:\Skoli\7Onn\ParallelAssignments\Compulsory\CompulsoryParallel\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.exe
+D:\Skoli\7Onn\ParallelAssignments\Compulsory\CompulsoryParallel\PrimeGenerator\PrimeGenerator\obj\Debug\PrimeGenerator.pdb
